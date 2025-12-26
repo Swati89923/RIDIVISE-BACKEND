@@ -1,0 +1,16 @@
+# Maven build output
+target/
+
+# Git
+.git
+.gitignore
+
+# IDEs
+.idea
+.vscode
+
+# Logs
+*.log
+
+# Docs
+README.md
