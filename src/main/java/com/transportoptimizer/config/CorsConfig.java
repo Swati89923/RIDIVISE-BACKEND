@@ -18,7 +18,7 @@ public class CorsConfig {
                         .allowedOrigins(
                                 "http://localhost:5500",
                                 "http://localhost:3000",
-                                "https://your-frontend-domain.netlify.app"
+                                "https://nikhilonadrenaline.github.io"
                         )
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
@@ -27,3 +27,4 @@ public class CorsConfig {
         };
     }
 }
+
