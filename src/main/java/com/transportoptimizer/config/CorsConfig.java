@@ -18,7 +18,7 @@ public class CorsConfig {
                         .allowedOrigins(
                                 "http://localhost:5500",
                                 "http://localhost:3000",
-                                "https://nikhilonadrenaline.github.io"
+                                "https://Swati89923.github.io"
                         )
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
@@ -27,4 +27,5 @@ public class CorsConfig {
         };
     }
 }
+
 
